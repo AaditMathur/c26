@@ -61,4 +61,6 @@ function draw(){
     log5.display();
 
     bird.display();
+
+    ground.shapeColor="brown"
 }
